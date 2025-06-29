@@ -8,3 +8,4 @@
 **License**: CC BY-NC-ND 4.0 (or your choice)
 
 This document serves as a timestamped public claim of authorship for the article above, published to the decentralized IPFS and Filecoin networks.
+**Download PDF from GitHub**: [Click here](./art-renaissance-paul-fremes.pdf)
